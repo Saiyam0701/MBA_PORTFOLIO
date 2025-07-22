@@ -7,15 +7,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    
 
 format:
   html:
+
     theme:
-      - cosmo
-      - brand
+      - minty
     css: styles.css
     toc: true
+    page-layout: full
+    dark-mode: true
 
 output-dir: docs
 
