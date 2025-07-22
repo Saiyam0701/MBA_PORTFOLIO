@@ -8,9 +8,8 @@ format: html
 
 
 # About Me
-<p style="font-size:1.15rem;line-height:1.7;">
-I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commerce from Gujarat University. My professional background includes administrative and managerial roles in the education sector, where I developed strong organizational, communication, and leadership skills. Through my academic journey, I have completed multiple real-world business projects, applying concepts in marketing, operations, and digital transformation. I aim to contribute to organizations by combining analytical thinking with practical problem-solving.
-</p>
+
+MBA candidate at **University Canada West** with a Bachelor of Commerce from Gujarat University. Experienced in administrative and managerial roles in the education sector, with strong organizational, communication, and leadership skills. Completed multiple real-world business projects, applying concepts in marketing, operations, and digital transformation. Passionate about combining analytical thinking with practical problem-solving to contribute to organizations.
 
 ---
 
@@ -19,35 +18,38 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
 
 **University Canada West**  
 _Vancouver, Canada_  
-MBA, Expected 2026
+**Master of Business Administration (MBA)**, Expected 2026
 
 **Gujarat University**  
 _India_  
-B.Com, 2023
+**Bachelor of Commerce (B.Com)**, 2023
 
 ---
 
 
 # Experience
-**Administrator & Management Team Member – Munimji Coaching Institute, India (2020-2024)**
 
-- Managed academic schedules, administrative documentation, and student engagement.
-- Worked closely with senior management to improve operational processes and marketing outreach.
-- Played a leadership role in coordinating new initiatives and supporting strategic decisions.
-- Managed the software and financial transactions of the institution.
-- Created reports and projections for future purposes.
+**Administrator & Management Team Member**  
+Munimji Coaching Institute, India | 2020–2024
+
+- Managed academic schedules, administrative documentation, and student engagement
+- Improved operational processes and marketing outreach in collaboration with senior management
+- Coordinated new initiatives and supported strategic decisions
+- Managed software and financial transactions for the institution
+- Created reports and projections for future planning
 
 ---
 
 
 # Academic Projects (MBA Journey)
-- **Netflix Advertising Campaign – MBA Academic Project**  
-  Created a data-driven marketing strategy using AI tools to support Netflix's transition to an ad-supported model.
-- **Lululemon Mirror Studio – MBA Academic Project**  
-  Developed a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
-- **Digital Transformation in Retail – MBA Group Project**  
-  Researched omnichannel strategies in retail using AI and customer insights. Produced a white paper on technology-driven innovation.
-- **Sustainable Digital Strategy – Leadership Course Project**  
+
+- **Netflix Advertising Campaign**  
+  Developed a data-driven marketing strategy using AI tools to support Netflix's transition to an ad-supported model.
+- **Lululemon Mirror Studio**  
+  Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
+- **Digital Transformation in Retail**  
+  Researched omnichannel strategies in retail using AI and customer insights; produced a white paper on technology-driven innovation.
+- **Sustainable Digital Strategy**  
   Presented a business plan for integrating sustainability into digital transformation based on InformationWeek’s 5 Pillars framework.
 - **Ethical Business Case Study – Loblaw Companies Ltd.**  
   Analyzed ethical practices and decision-making frameworks in Canadian retail using real-world case study techniques.
@@ -56,19 +58,18 @@ B.Com, 2023
 
 
 # Skills & Certifications
-**Core Skills:**
 
+**Core Skills**
 - Project Management
 - Business Analysis
 - Leadership & Teamwork
 - Management Skills
 - Marketing Strategy & Planning
 - Data-Driven Decision Making
-- MS Office Suite
+- Microsoft Office Suite (Excel, Word, PowerPoint)
 - Communication & Time Management
 
-**Certifications:**
-
+**Certifications**
 - CCC (Course on Computer Concepts) & Tally
 - Leadership and Team Management
 - MS Office Suite Proficiency
