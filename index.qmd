@@ -9,15 +9,18 @@ format: html
 
 
 
+
 # Saiyam Patel
 _MBA Portfolio_
 
 ---
 
+::: {.callout-tip}
 ## 👋 Hi, I'm Saiyam Patel
 🎓 **MBA Student** | University Canada West (2024–2026)  
 📍 Burnaby, BC, Canada  
 ✉️ [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
+:::
 
 
 ---
@@ -25,9 +28,12 @@ _MBA Portfolio_
 
 ---
 
+
+::: {.callout-note}
 ## 🌟 Professional Summary
 
 Motivated MBA candidate with a Bachelor of Commerce and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in operations and strategic project work. I enjoy applying business concepts to real-world challenges and am building expertise in business analytics, digital transformation, and ethical decision-making.
+:::
 
 ---
 
