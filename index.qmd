@@ -71,27 +71,27 @@ _2020–2024_
 
 # Portfolio Highlights
 
-::: {.callout-note}
+::: {.callout-tip}
 #### 📺 Netflix Advertising Campaign
 Developed a data-driven marketing strategy using AI tools to support Netflix’s transition to an ad-supported model.
 :::
 
-::: {.callout-tip}
+::: {.callout-note}
 #### 🏋️‍♂️ Lululemon Mirror Studio
 Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
 :::
 
-::: {.callout-note}
+::: {.callout-tip}
 #### 🛒 Digital Transformation in Retail
 Researched omnichannel strategies in retail using AI and customer insights; produced a white paper on technology-driven innovation.
 :::
 
-::: {.callout-tip}
+::: {.callout-note}
 #### 🌱 Sustainable Digital Strategy
 Presented a business plan for integrating sustainability into digital transformation based on InformationWeek’s 5 Pillars framework.
 :::
 
-::: {.callout-note}
+::: {.callout-tip}
 #### 🏪 Ethical Business Case Study – Loblaw Companies Ltd.
 Analyzed ethical practices and decision-making frameworks in Canadian retail using real-world case study techniques.
 :::
