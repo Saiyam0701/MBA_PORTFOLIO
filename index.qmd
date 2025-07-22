@@ -17,10 +17,13 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
 
 # Education
 
-| Institution                | Location          | Degree/Year         |
-|----------------------------|-------------------|---------------------|
-| **University Canada West** | Vancouver, Canada | MBA, Expected 2026  |
-| **Gujarat University**     | India             | B.Com, 2023         |
+**University Canada West**  
+_Vancouver, Canada_  
+MBA, Expected 2026
+
+**Gujarat University**  
+_India_  
+B.Com, 2023
 
 ---
 
