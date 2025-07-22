@@ -1,63 +1,39 @@
 ---
 title: "Saiyam Patel – MBA Portfolio"
-format: html
+format:
+  html:
+    theme: flatly
+    css: styles.css
 ---
 
-
----
-
-
-
-
-
-# Saiyam Patel
-_MBA Portfolio_
-
----
-
-::: {.callout-tip}
-## 👋 Hi, I'm Saiyam Patel
-🎓 **MBA Student** | University Canada West (2024–2026)  
-📍 Burnaby, BC, Canada  
+# 👋 Hi, I'm Saiyam Patel
+🎓 **MBA Student** | University Canada West (2024–2026)\
+📍 Burnaby, BC, Canada\
 ✉️ [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
-:::
 
+# 📄 About Me
 
----
-
-
----
-
-
-::: {.callout-note}
-## 🌟 Professional Summary
-
-Motivated MBA candidate with a Bachelor of Commerce and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in operations and strategic project work. I enjoy applying business concepts to real-world challenges and am building expertise in business analytics, digital transformation, and ethical decision-making.
-:::
+I am a highly motivated MBA candidate at University Canada West with a Bachelor of Commerce from Gujarat University and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in administration, operations, and strategic project work. I enjoy applying business concepts to real-world challenges and am currently building my expertise in business analytics, digital transformation, and ethical decision-making.
 
 ---
-
----
-
 
 # Education
 
-**University Canada West**  
-_Vancouver, Canada_  
-**Master of Business Administration (MBA)**, _Expected 2026_
+**University Canada West**\
+*Vancouver, Canada*\
+**Master of Business Administration (MBA)**, *Expected 2026*
 
-**Gujarat University**  
-_Ahmedabad, Gujarat, India_  
-**Bachelor of Commerce (B.Com)**, _2023_
+**Gujarat University**\
+*Ahmedabad, Gujarat, India*\
+**Bachelor of Commerce (B.Com)**, *2023*
 
 ---
 
-
 # Experience
 
-**Administrator & Management Team Member**  
-_Munimji Coaching Institute, India_  
-_2020–2024_
+**Administrator & Management Team Member**\
+*Munimji Coaching Institute, India*\
+*2020–2024*
 
 - Managed academic schedules, documentation, and student engagement
 - Improved operational processes and marketing outreach with senior management
@@ -67,75 +43,62 @@ _2020–2024_
 
 ---
 
+# 📘 MBA Projects
 
-
-# Portfolio Highlights
-
-::: {.callout-tip}
-#### 📺 Netflix Advertising Campaign
+## 📺 Netflix Advertising Campaign
 Developed a data-driven marketing strategy using AI tools to support Netflix’s transition to an ad-supported model.
-:::
 
-::: {.callout-note}
-#### 🏋️‍♂️ Lululemon Mirror Studio
+## 🏋️‍♂️ Lululemon Mirror Studio
 Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
-:::
 
-::: {.callout-tip}
-#### 🛒 Digital Transformation in Retail
+## 🛒 Digital Transformation in Retail
 Researched omnichannel strategies in retail using AI and customer insights; produced a white paper on technology-driven innovation.
-:::
 
-::: {.callout-note}
-#### 🌱 Sustainable Digital Strategy
+## 🌱 Sustainable Digital Strategy
 Presented a business plan for integrating sustainability into digital transformation based on InformationWeek’s 5 Pillars framework.
-:::
 
-::: {.callout-tip}
-#### 🏪 Ethical Business Case Study – Loblaw Companies Ltd.
+## 🏪 Ethical Business Case Study – Loblaw Companies Ltd.
 Analyzed ethical practices and decision-making frameworks in Canadian retail using real-world case study techniques.
-:::
 
 ---
 
+# 🧠 Skills & Certifications
 
----
-
-## 🧠 Skills & Certifications
-
-::: {.columns}
-#### 💼 Business & Technical Skills
-✅ Project Management  
-📊 Business Analysis  
-📈 Strategic Planning  
-📎 Microsoft Excel & PowerPoint  
-📉 Power BI & Tableau  
-🔍 Market Research  
+<div class="skills-columns">
+<div class="skills-col">
+<strong>💼 Business & Technical Skills</strong><br>
+✅ Project Management<br>
+📊 Business Analysis<br>
+📈 Strategic Planning<br>
+📎 Microsoft Excel & PowerPoint<br>
+📉 Power BI & Tableau<br>
+🔍 Market Research<br>
 🤖 AI Tools (ChatGPT, Gemini, Claude, etc.)
-
-#### 🤝 Soft Skills
-👥 Leadership  
-🤝 Team Collaboration  
-🗣️ Communication  
-⏱️ Time Management  
+</div>
+<div class="skills-col">
+<strong>🤝 Soft Skills</strong><br>
+👥 Leadership<br>
+🤝 Team Collaboration<br>
+🗣️ Communication<br>
+⏱️ Time Management<br>
 🧠 Critical Thinking
-
-#### 📜 Certifications
-🎓 Course on Computer Concepts (CCC)  
-💼 Tally ERP  
-📘 Excel for Business – Coursera  
-🧾 Microsoft Office Proficiency  
+</div>
+<div class="skills-col">
+<strong>📜 Certifications</strong><br>
+🎓 Course on Computer Concepts (CCC)<br>
+💼 Tally ERP<br>
+📘 Excel for Business – Coursera<br>
+🧾 Microsoft Office Proficiency<br>
 📚 Leadership & Team Management – UCW
-:::
-
+</div>
+</div>
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
-::: {.callout-tip}
-**Location:** Burnaby, BC, Canada  
-**Phone:** 604-977-3691  
-**Email:** [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
-:::
-
+<div class="contact-box">
+<strong>Location:</strong> Burnaby, BC, Canada<br>
+<strong>Phone:</strong> 604-977-3691<br>
+<strong>Email:</strong> <a href="mailto:saiyampatel07@gmail.com">saiyampatel07@gmail.com</a>
+</div>

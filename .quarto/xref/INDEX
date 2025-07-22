@@ -4,5 +4,8 @@
   },
   "about.qmd": {
     "about.html": "e2e3afe6"
+  },
+  "appendix.qmd": {
+    "appendix.tex": "b1c03ccf"
   }
 }
