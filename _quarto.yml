@@ -18,6 +18,7 @@ format:
     toc: true
     page-layout: full
     dark-mode: true
+    allow-html: true
 
 output-dir: docs
 
