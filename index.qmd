@@ -7,9 +7,17 @@ format: html
 ---
 
 
-# About Me
 
-MBA candidate at **University Canada West** with a Bachelor of Commerce from Gujarat University. Experienced in administrative and managerial roles in the education sector, with strong organizational, communication, and leadership skills. Completed multiple real-world business projects, applying concepts in marketing, operations, and digital transformation. Passionate about combining analytical thinking with practical problem-solving to contribute to organizations.
+# Saiyam Patel
+MBA Portfolio
+
+---
+
+## Professional Summary
+
+Motivated MBA candidate with a Bachelor of Commerce and hands-on experience in administration, management, and business projects. Skilled in leadership, communication, and data-driven decision making. Adept at applying business concepts to real-world challenges and delivering results in dynamic environments.
+
+---
 
 ---
 
@@ -18,11 +26,11 @@ MBA candidate at **University Canada West** with a Bachelor of Commerce from Guj
 
 **University Canada West**  
 _Vancouver, Canada_  
-**Master of Business Administration (MBA)**, Expected 2026
+**Master of Business Administration (MBA)**, _Expected 2026_
 
 **Gujarat University**  
-_India_  
-**Bachelor of Commerce (B.Com)**, 2023
+_Ahmedabad, Gujarat, India_  
+**Bachelor of Commerce (B.Com)**, _2023_
 
 ---
 
@@ -30,12 +38,13 @@ _India_
 # Experience
 
 **Administrator & Management Team Member**  
-Munimji Coaching Institute, India | 2020–2024
+_Munimji Coaching Institute, India_  
+_2020–2024_
 
-- Managed academic schedules, administrative documentation, and student engagement
-- Improved operational processes and marketing outreach in collaboration with senior management
+- Managed academic schedules, documentation, and student engagement
+- Improved operational processes and marketing outreach with senior management
 - Coordinated new initiatives and supported strategic decisions
-- Managed software and financial transactions for the institution
+- Managed software and financial transactions
 - Created reports and projections for future planning
 
 ---
@@ -44,7 +53,7 @@ Munimji Coaching Institute, India | 2020–2024
 # Academic Projects (MBA Journey)
 
 - **Netflix Advertising Campaign**  
-  Developed a data-driven marketing strategy using AI tools to support Netflix's transition to an ad-supported model.
+  Developed a data-driven marketing strategy using AI tools to support Netflix’s transition to an ad-supported model.
 - **Lululemon Mirror Studio**  
   Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
 - **Digital Transformation in Retail**  
@@ -59,27 +68,18 @@ Munimji Coaching Institute, India | 2020–2024
 
 # Skills & Certifications
 
-**Core Skills**
-- Project Management
-- Business Analysis
-- Leadership & Teamwork
-- Management Skills
-- Marketing Strategy & Planning
-- Data-Driven Decision Making
-- Microsoft Office Suite (Excel, Word, PowerPoint)
-- Communication & Time Management
+**Core Skills:**
+Project Management | Business Analysis | Leadership & Teamwork | Management Skills  
+Marketing Strategy & Planning | Data-Driven Decision Making | Microsoft Office Suite (Excel, Word, PowerPoint) | Communication & Time Management
 
-**Certifications**
-- CCC (Course on Computer Concepts) & Tally
-- Leadership and Team Management
-- MS Office Suite Proficiency
-- Excel for Business
+**Certifications:**
+CCC (Course on Computer Concepts) & Tally | Leadership and Team Management | MS Office Suite Proficiency | Excel for Business
 
 ---
 
 
 # Contact
 
-**Phone:** 604-977-3691  
-**Email:** [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
+📞 604-977-3691  
+✉️ [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
 
