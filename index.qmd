@@ -37,6 +37,7 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
 
 
 # Experience
+::: {=html}
 <section>
 <b>Administrator & Management Team Member – Munimji Coaching Institute, India (2020-2024)</b>
 <ul>
@@ -47,11 +48,13 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
   <li>Created reports and projections for future purposes.</li>
 </ul>
 </section>
+:::
 
 ---
 
 
 # Academic Projects (MBA Journey)
+::: {=html}
 <section>
 <ul>
   <li><b>Netflix Advertising Campaign – MBA Academic Project</b><br>
@@ -71,11 +74,13 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
   </li>
 </ul>
 </section>
+:::
 
 ---
 
 
 # Skills & Certifications
+::: {=html}
 <section>
 <h3>Core Skills</h3>
 <div class="card-list">
@@ -97,11 +102,13 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
   <div class="card">Excel for Business</div>
 </div>
 </section>
+:::
 
 ---
 
 
 # Contact
+::: {=html}
 <section>
 <div style="text-align:center;font-size:1.2rem;">
   <a href="mailto:saiyampatel07@gmail.com" style="color:#2a5298;text-decoration:none;font-weight:600;">
@@ -109,4 +116,5 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
   </a>
 </div>
 </section>
+:::
 
