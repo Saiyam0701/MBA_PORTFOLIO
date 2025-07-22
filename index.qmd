@@ -18,7 +18,7 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
 
 
 # Education
-<section>
+::: {=html}
 <div class="card-list">
   <div class="card">
     <b>University Canada West</b><br>
@@ -31,7 +31,7 @@ I am an MBA candidate at <b>University Canada West</b> with a Bachelor of Commer
     <span style="font-size:0.95rem;">B.Com, 2023</span>
   </div>
 </div>
-</section>
+:::
 
 ---
 
