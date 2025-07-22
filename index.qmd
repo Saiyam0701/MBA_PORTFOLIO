@@ -8,14 +8,26 @@ format: html
 
 
 
+
 # Saiyam Patel
-MBA Portfolio
+_MBA Portfolio_
 
 ---
 
-## Professional Summary
+## 👋 Hi, I'm Saiyam Patel
+🎓 **MBA Student** | University Canada West (2024–2026)  
+📍 Burnaby, BC, Canada  
+✉️ [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
 
-Motivated MBA candidate with a Bachelor of Commerce and hands-on experience in administration, management, and business projects. Skilled in leadership, communication, and data-driven decision making. Adept at applying business concepts to real-world challenges and delivering results in dynamic environments.
+
+---
+
+
+---
+
+## 🌟 Professional Summary
+
+Motivated MBA candidate with a Bachelor of Commerce and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in operations and strategic project work. I enjoy applying business concepts to real-world challenges and am building expertise in business analytics, digital transformation, and ethical decision-making.
 
 ---
 
@@ -50,36 +62,74 @@ _2020–2024_
 ---
 
 
-# Academic Projects (MBA Journey)
 
-- **Netflix Advertising Campaign**  
-  Developed a data-driven marketing strategy using AI tools to support Netflix’s transition to an ad-supported model.
-- **Lululemon Mirror Studio**  
-  Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
-- **Digital Transformation in Retail**  
-  Researched omnichannel strategies in retail using AI and customer insights; produced a white paper on technology-driven innovation.
-- **Sustainable Digital Strategy**  
-  Presented a business plan for integrating sustainability into digital transformation based on InformationWeek’s 5 Pillars framework.
-- **Ethical Business Case Study – Loblaw Companies Ltd.**  
-  Analyzed ethical practices and decision-making frameworks in Canadian retail using real-world case study techniques.
+# Portfolio Highlights
+
+::: {.callout-note}
+#### 📺 Netflix Advertising Campaign
+Developed a data-driven marketing strategy using AI tools to support Netflix’s transition to an ad-supported model.
+:::
+
+::: {.callout-tip}
+#### 🏋️‍♂️ Lululemon Mirror Studio
+Created a project charter and implementation plan for an in-store virtual fitness experience, focusing on stakeholder analysis and risk mitigation.
+:::
+
+::: {.callout-note}
+#### 🛒 Digital Transformation in Retail
+Researched omnichannel strategies in retail using AI and customer insights; produced a white paper on technology-driven innovation.
+:::
+
+::: {.callout-tip}
+#### 🌱 Sustainable Digital Strategy
+Presented a business plan for integrating sustainability into digital transformation based on InformationWeek’s 5 Pillars framework.
+:::
+
+::: {.callout-note}
+#### 🏪 Ethical Business Case Study – Loblaw Companies Ltd.
+Analyzed ethical practices and decision-making frameworks in Canadian retail using real-world case study techniques.
+:::
 
 ---
 
 
-# Skills & Certifications
+---
 
-**Core Skills:**
-Project Management | Business Analysis | Leadership & Teamwork | Management Skills  
-Marketing Strategy & Planning | Data-Driven Decision Making | Microsoft Office Suite (Excel, Word, PowerPoint) | Communication & Time Management
+## 🧠 Skills & Certifications
 
-**Certifications:**
-CCC (Course on Computer Concepts) & Tally | Leadership and Team Management | MS Office Suite Proficiency | Excel for Business
+::: {.columns}
+#### 💼 Business & Technical Skills
+✅ Project Management  
+📊 Business Analysis  
+📈 Strategic Planning  
+📎 Microsoft Excel & PowerPoint  
+📉 Power BI & Tableau  
+🔍 Market Research  
+🤖 AI Tools (ChatGPT, Gemini, Claude, etc.)
+
+#### 🤝 Soft Skills
+👥 Leadership  
+🤝 Team Collaboration  
+🗣️ Communication  
+⏱️ Time Management  
+🧠 Critical Thinking
+
+#### 📜 Certifications
+🎓 Course on Computer Concepts (CCC)  
+💼 Tally ERP  
+📘 Excel for Business – Coursera  
+🧾 Microsoft Office Proficiency  
+📚 Leadership & Team Management – UCW
+:::
+
 
 ---
 
+## 📬 Contact
 
-# Contact
-
-📞 604-977-3691  
-✉️ [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
+::: {.callout-tip}
+**Location:** Burnaby, BC, Canada  
+**Phone:** 604-977-3691  
+**Email:** [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
+:::
 
