@@ -1,6 +1,26 @@
 project:
   type: website
+
+website:
+  title: "SaiyamMBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    
+
 format:
   html:
-    theme: darkly
+
+    theme:
+      - minty
     css: styles.css
+    toc: true
+    page-layout: full
+    dark-mode: true
+    allow-html: true
+
+output-dir: docs
+
+
+

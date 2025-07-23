@@ -13,7 +13,7 @@ format:
 
 # 📄 About Me
 
-I am a highly motivated MBA candidate at University Canada West with a Bachelor of Commerce from Gujarat University and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in administration, operations, and strategic project work. I enjoy applying business concepts to real-world challenges and am currently building my expertise in business analytics, digital transformation, and ethical decision-making.
+I am a highly motivated MBA candidate at University Canada West with a Bachelor of Commerce from Gujarat University and hands-on experience in administration, management, and business projects. My academic journey is supported by practical experience in administration, operations, and strategic project work. I enjoy applying business concepts to real-world challenges and am currently building my expertise in business analytics, digital transformation, and ethical decision-making. 
 
 ---
 
@@ -89,7 +89,7 @@ Analyzed ethical practices and decision-making frameworks in Canadian retail usi
 💼 Tally ERP<br>
 📘 Excel for Business – Coursera<br>
 🧾 Microsoft Office Proficiency<br>
-📚 Leadership & Team Management – UCW
+📚 Leadership & Team Management
 </div>
 </div>
 
