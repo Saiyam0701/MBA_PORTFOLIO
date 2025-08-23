@@ -1,0 +1,51 @@
+---
+title: "Projects"
+---
+
+# Projects & Case Studies
+
+## 📘 MBA Projects
+
+### 📺 Netflix Advertising Campaign  
+- Developed a **data-driven marketing strategy** using AI tools.  
+- Supported Netflix’s transition to an **ad-supported model**.  
+- Strengthened skills in **digital marketing, analytics, and strategy**.  
+
+***
+
+### 🏋️‍♂️ Lululemon Mirror Studio  
+- Created a **project charter** and implementation plan for an **in-store virtual fitness experience**.  
+- Focused on **stakeholder analysis, risk mitigation, and project planning**.  
+- Applied advanced project management and teamwork methodologies.  
+
+***
+
+### 🛒 Digital Transformation in Retail  
+- Researched **omnichannel strategies** with emphasis on **AI and customer insights**.  
+- Co-authored a **white paper** on technology-driven innovation in retail.  
+- Improved **research, collaboration, and presentation** skills.  
+
+***
+
+### 🌱 Sustainable Digital Strategy  
+- Developed a **business plan** integrating sustainability into **digital transformation**.  
+- Based on **InformationWeek’s 5 Pillars framework**.  
+- Enhanced knowledge of **ESG, corporate sustainability, and digital leadership**.  
+
+***
+
+### 🏪 Ethical Business Case Study – Loblaw Companies Ltd.  
+- Analyzed **ethical practices and decision-making frameworks** in Canadian retail.  
+- Applied real-world **business ethics and corporate governance** frameworks.  
+- Strengthened critical thinking and case study analysis skills.  
+
+***
+
+### 🚗 Toyota Supply Chain Disruption Analysis  
+**OPMT Course Final Assignment (2025)**  
+- Examined Toyota’s disrupted supply chain during the **global chip shortage**.  
+- Proposed actionable strategies for **resilient supply chains**.  
+
+***
+
+[📂 Download project documentation](files/Selected_Projects.pdf){target="_blank"}

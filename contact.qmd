@@ -1,0 +1,28 @@
+---
+title: "Contact"
+---
+# 📬 Contact Me  
+
+I’d love to connect!  
+
+- 📱 Phone: [604-977-3691](tel:6049773691)  
+- 💼 LinkedIn: [linkedin.com/in/saiyam-patel](https://www.linkedin.com/in/saiyam-patel)  
+- 🌐 GitHub: [github.com/saiyam0701](https://github.com/saiyam0701)  
+- 📧 Email: [saiyampatel07@gmail.com](mailto:saiyampatel07@gmail.com)
+
+---
+
+<form action="https://formspree.io/f/mwpqgpko" method="POST">
+  <label for="name">Your Name:</label><br>
+  <input type="text" id="name" name="name" required><br>
+  <label for="email">Your Email:</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <label for="message">Your Message:</label><br>
+  <textarea id="message" name="message" rows="4" required></textarea><br>
+  <button type="submit">Send</button>
+</form>
+
+---
+
+Or use the **navigation bar** to explore more about me!
+

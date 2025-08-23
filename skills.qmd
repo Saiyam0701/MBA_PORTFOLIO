@@ -1,0 +1,29 @@
+---
+title: "Skills"
+---
+# 💡 Skills
+
+## Core Business Skills
+- Strategic Planning
+- Financial Analysis
+- Marketing & Sales
+- Operations Management
+- Project Management
+
+## Technical Skills
+- Data Analysis (Excel, Power BI)
+- SQL & Database Management
+- Python (basic)
+- Digital Marketing Tools
+- CRM Systems
+
+## Professional Strengths
+- Leadership & Teamwork
+- Communication & Presentation
+- Problem Solving
+- Adaptability
+- Time Management
+
+---
+
+Explore more in the **navigation bar** above!

@@ -7,5 +7,24 @@
   },
   "appendix.qmd": {
     "appendix.tex": "b1c03ccf"
+  },
+  "contact.qmd": {
+    "contact.html": "35b1c3b2"
+  },
+  "resume.qmd": {
+    "resume.html": "e7da1f0d",
+    "resume.tex": "e7e81928"
+  },
+  "skill.qmd": {
+    "skill.html": "0354109f"
+  },
+  "projects.qmd": {
+    "projects.html": "d0696881"
+  },
+  "experience.qmd": {
+    "experience.html": "eb127a93"
+  },
+  "skills.qmd": {
+    "skills.html": "8f0bfe3e"
   }
 }

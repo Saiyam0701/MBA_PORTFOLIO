@@ -1,0 +1,83 @@
+---
+title: "Resume"
+format: html
+---
+
+# Saiyam Patel  
+
+📍 Burnaby, BC, Canada  
+✉️ saiyampatel07@gmail.com  
+📞 604-977-3691  
+
+---
+
+## Professional Summary  
+Motivated MBA candidate at **University Canada West (2024–2026)** with a strong foundation in **business analytics, operations, and strategic management**. Experienced in **administration, customer service, and retail operations**, with proven skills in **project management, problem-solving, and business analysis**. Seeking opportunities to contribute as a **Business Analyst** or **Operations Analyst**.  
+
+---
+
+## Education  
+
+**Master of Business Administration (MBA)** *(Expected 2026)*  
+University Canada West – Vancouver, Canada  
+- Specialization: Business Analytics, Operations & Strategy  
+- Relevant Coursework: Talent Management, Leadership, Corporate Finance, Supply Chain Management, Digital Transformation  
+
+**Bachelor of Commerce (B.Com)** – 2023  
+Gujarat University – Ahmedabad, India  
+- Focus: Accounting, Finance, and Business Administration  
+
+---
+
+## Professional Experience  
+
+**Store Associate**  
+*Dollar Tree – Burnaby, BC* | *Jul 2025 – Present*  
+- Support **day-to-day store operations** including cashiering, stocking, and customer service.  
+- Maintain **inventory accuracy** by tracking stock levels and assisting in restocking shelves.  
+- Provide friendly and efficient assistance to customers, improving overall shopping experience.  
+- Contribute to **team collaboration and store efficiency** in a fast-paced retail environment.  
+
+**Administrator & Management Team Member**  
+*Munimji Coaching Institute – Ahmedabad, India* | *2020 – 2024*  
+- Managed **academic schedules, documentation, and reporting** for 500+ students.  
+- Streamlined administrative workflows, improving **operational efficiency by 15%**.  
+- Supported **financial transactions, projections, and reporting** to assist senior management in decision-making.  
+- Enhanced **student engagement and communication**, contributing to higher retention rates.  
+
+---
+
+## Key MBA Projects  
+
+- **Netflix Advertising Campaign** – Developed an AI-driven marketing strategy for Netflix’s ad-supported tier.  
+- **Lululemon Mirror Studio** – Designed project charter, stakeholder analysis, and risk management plan for an in-store virtual fitness innovation.  
+- **Digital Transformation in Retail** – Co-authored a white paper on omnichannel retail strategy and customer insights using AI.  
+- **Sustainable Digital Strategy** – Created a business plan integrating sustainability into digital transformation using the “5 Pillars Framework.”  
+- **Ethical Business Case Study (Loblaw Companies Ltd.)** – Analyzed decision-making frameworks and corporate responsibility in Canadian retail.  
+
+---
+
+## Skills & Competencies  
+
+**Business & Technical Skills**  
+- Project Management | Business Analysis | Strategic Planning  
+- Microsoft Excel, PowerPoint, Word | Power BI, Tableau | Market Research  
+- AI Tools: ChatGPT, Claude, Gemini, Google AI  
+
+**Soft Skills**  
+- Leadership | Team Collaboration | Communication | Problem-Solving  
+- Time Management | Critical Thinking | Adaptability  
+
+---
+
+## Certifications  
+- **Course on Computer Concepts (CCC)** – National Institute of Electronics & Information Technology  
+- **Tally ERP** – Accounting & Finance Software  
+- **Excel for Business (Coursera)**  
+- **Microsoft Office Proficiency**  
+- **Leadership & Team Management Certification**
+
+---
+
+**[Download Resume (PDF)](files/resume.pdf){target="_blank"}**
+
